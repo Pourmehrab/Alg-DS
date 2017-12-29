@@ -10,4 +10,10 @@ Nice courses with lectures on YouTube:
 
 
 ##  Graph Problems
-- [Detect Cycle in a Directed Graph](https://www.geeksforgeeks.org/detect-cycle-in-a-graph/)
+- [Detect Cycle in a Directed Graph (DFS)](https://www.geeksforgeeks.org/detect-cycle-in-a-graph/)
+- [Assignment Problem (Hungarian)](https://www.youtube.com/watch?v=rrfFTdO2Z7I)
+
+## Famous Puzzles:
+- [N Queen Problem (Recursive and DP)](https://www.geeksforgeeks.org/backtracking-set-3-n-queen-problem/)
+- [Tower of Hanoi (Recursive)](https://www.geeksforgeeks.org/c-program-for-tower-of-hanoi/)
+- 
