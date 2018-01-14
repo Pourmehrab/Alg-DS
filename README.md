@@ -4,9 +4,10 @@
 ## Online
 ### MIT Courses
 Nice courses with lectures on YouTube:
-- [6006 Introduction to Algorithms](https://goo.gl/NEvCVt)
+- [6.006 Introduction to Algorithms](https://goo.gl/NEvCVt)
 - [6.046J / 18.410J Design and Analysis of Algorithms](https://goo.gl/4Hr3bY)
 - [6.046J / 18.410J Introduction to Algorithms (SMA 5503)](https://goo.gl/UK2nZo)
+- [6.00 Introduction to Computer Science and Programming] (https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/)
 
 
 ##  Graph Problems
