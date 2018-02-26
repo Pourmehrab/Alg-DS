@@ -1,9 +1,7 @@
 # Algorithms and Data Structures
 [TOC]
 
-## Online
-### Usefull Online Courses
-Nice courses with lectures on YouTube:
+## Usefull Online Courses
 - [6.006 Introduction to Algorithms](https://goo.gl/NEvCVt)
 - [6.046J / 18.410J Design and Analysis of Algorithms](https://goo.gl/4Hr3bY)
 - [6.046J / 18.410J Introduction to Algorithms (SMA 5503)](https://goo.gl/UK2nZo)
