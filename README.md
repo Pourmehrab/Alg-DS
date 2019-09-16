@@ -100,6 +100,11 @@
 
 ## Optimization
 - http://www.scipy-lectures.org/advanced/mathematical_optimization/
+- [Stochastic vs Batch vs Mini-Batch Gradient Descent](https://youtu.be/Ne3hjpP7KSI)
+- [Learn Keras In One Video](https://youtu.be/M0FOA1DAohI)
+- [Understanding Convolutions](https://colah.github.io/posts/2014-07-Understanding-Convolutions/)
+- [regex](https://mlwhiz.com/blog/2019/09/01/regex/)
+- 
 
 ## Parallel
 - https://tdhopper.com/blog/parallelizing-a-python-function-for-the-extremely-lazy/
